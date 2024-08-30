@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leonardo and I'm a Software engineer from Fiap</p>
+<p align="left">My name is Leonardo and I'm a Software engineering student at Fiap</p>
 
 ###
 
