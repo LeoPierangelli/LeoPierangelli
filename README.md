@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leonardo and I'm a Software Engineer student, from Fiap</p>
+<p align="left">My name is Leonardo and I'm a Software engineer from Fiap</p>
 
 ###
 
@@ -10,10 +10,16 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning basic IT skills <br>🎯 Goals: Create a nice project in Healthy area <br>🎲 Fun fact: I really enjoy movies 🎞 </p>
+<p align="left">📚 I'm currently learning basic IT skills<br>🎯 Goals: create a projetc for healthy area<br>🎲 Fun fact: i really enjoy cinema</p>
 
 ###
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
 ###
